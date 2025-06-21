@@ -48,7 +48,7 @@ python gradio_ui.py
 ```
 
 A web UI will open in your browser where you can:
-
+**Note: If it doesn't work on system, try running both python files on google collab(comment 2nd line in gradio_ui.py).**
 - Select rider/station count
 
 - Run optimizer
