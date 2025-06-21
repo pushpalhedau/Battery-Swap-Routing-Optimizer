@@ -6,7 +6,7 @@ import random
 
 # --- CONFIGURATION ---
 NUM_RIDERS = 100
-NUM_STATIONS = 3
+NUM_STATIONS = 6
 PUNE_CENTER = (18.5204, 73.8567)  # Central Pune coordinates
 SOC_USAGE_PER_KM = 4  # 4% SOC per km
 MAX_QUEUE_LEN = 5
