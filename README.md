@@ -22,6 +22,8 @@ Built as part of an AI/ML internship challenge focused on real-world mobility an
 ├── plan_output.csv # Final output for eligible riders 
 ├── solution.md # Assumptions, approach, algorithm 
 ├── gradio_ui.py # Interactive UI built with Gradio
+├── Battery_Swap_Routing_Optimiser.ipynb # follow this file to run UI in Collab
+├── Screenshots # Relevant Screenshots
 ├── requirements.txt # Python dependencies 
 └── README.md # Project overview
 ```
@@ -49,7 +51,7 @@ python gradio_ui.py
 
 A web UI will open in your browser where you can:
 
-**Note: If it doesn't work on system, try running both python files on google collab(comment 2nd line in gradio_ui.py).**
+**Note: If it doesn't work on system, follow collab file (Battery_Swap_Routing_Optimiser.ipynb) for reference**
 - Select rider/station count
 
 - Run optimizer
